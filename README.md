@@ -1,4 +1,2 @@
 PathFinding visualizer is used to visualize various path finding algorithms in a fun and more user interactive way
 # Path_Finding_Visualiser
-# Path_Finding_Visualiser
-# Path_Finding_Visualiser
